@@ -17,8 +17,3 @@ function addElementToEndOfArray(array,element){
   array.push("foo");
   return array;
 }
-
-function accessElementInArray(array, index){
-  array = [1,2,3];
-  return array[2];
-}
